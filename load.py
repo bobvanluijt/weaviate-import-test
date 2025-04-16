@@ -9,8 +9,8 @@ from wasabi import msg
 # Constants
 SPHERE_DATASET = "sphere.100M.jsonl.tar.gz"
 MAX_IMPORT = 1_000_000
-WEAVIATE_URL = "https://y9sfyuaysemasbmmacw0ya.c0.us-east1.gcp.weaviate.cloud"
-WEAVIATE_API_KEY = "063l7qi828cTo5D8P5ivNwlAbjX5b7NUZysQ"
+WEAVIATE_URL = "https://xxx.yy.zz-aaaaa.gcp.weaviate.cloud"
+WEAVIATE_API_KEY = "063...ysQ"
 COLLECTION_NAME = "pages"
 
 
